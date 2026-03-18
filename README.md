@@ -20,15 +20,19 @@ This section explains how to set up and run the backend server, which handles AP
 1. Open a terminal and navigate to the backend folder
 
 2. Create a virtual environment
+
    python -m venv venv
 
-3. Activate the virtual environment
+4. Activate the virtual environment
+
    venv\Scripts\activate
 
-4. Install dependencies
+6. Install dependencies
+
    pip install -r requirements.txt
 
-5. Start the backend server
+8. Start the backend server
+
    uvicorn main:app --reload
 
 Instructions to Run Frontend
@@ -38,12 +42,14 @@ This section explains how to set up and run the frontend application, which prov
 1. Open a new terminal
    
 2. Navigate to the frontend folder
+
    cd frontend
 
-3. Install dependencies
+4. Install dependencies
+
    npm install
 
-4. Start the React application
+6. Start the React application
 How to Load Seed Data
 
 This section explains how to populate the database with sample data for testing and demonstration purposes.
@@ -51,6 +57,7 @@ This section explains how to populate the database with sample data for testing 
 1. Ensure the backend virtual environment is activated
   
 2. Run the seed script
+
    python seed.py
 
 How to Run Tests
