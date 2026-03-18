@@ -71,7 +71,6 @@ This project makes a few simplifications to keep the implementation straightforw
 Screenshots included in /screenshots folder for verification.
 
 ## Submission Details
-Here's the version split into 2 paragraphs:
 
 The total time spent on this assignment was approximately 8–10 hours. I started by going through the requirements and design mockup to plan things out before jumping into code. Most of the time went into building and fine-tuning the frontend to closely match the provided design, while also implementing the backend APIs and redirect logic.
 
