@@ -3,7 +3,7 @@ URL Shortener Application
 
 Project Overview
 
-This project is a full-stack URL shortener application that allows users to convert long URLs into short, manageable links. It also provides basic analytics such as tracking the number of clicks and visualizing usage trends over time. The system is designed with a simple and clean interface, making it easy to shorten URLs, view previously created links, and monitor their performance.
+This project is a full-stack URL shortener application that allows users to convert long URLs into short, manageable links. It also provides basic analytics such as tracking the number of clicks and visualizing usage trends over time. The system is designed with a simple and clean interface, making it easy to shorten URLs, view previously created links, and monitor their performance. The design of the website has been asked to be a picture perfect representation of a project done before.
 
 Tech Stack
 
