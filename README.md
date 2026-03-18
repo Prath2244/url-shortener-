@@ -69,3 +69,10 @@ Assumptions or Tradeoffs
 This project makes a few simplifications to keep the implementation straightforward. The database uses SQLite, which is lightweight but not ideal for large-scale production systems. The application currently stores only aggregate click counts rather than detailed click event data, limiting advanced analytics capabilities. Additionally, the clicks and analytics section in the frontend is still a work in progress and is currently included as a placeholder for future enhancements. CORS is configured to allow all origins for development convenience, which should be restricted in a production environment. The short code generation does not currently check for collisions, which could be improved for robustness.
 
 Screenshots included in /screenshots folder for verification.
+
+## Submission Details
+Here's the version split into 2 paragraphs:
+
+The total time spent on this assignment was approximately 8–10 hours. I started by going through the requirements and design mockup to plan things out before jumping into code. Most of the time went into building and fine-tuning the frontend to closely match the provided design, while also implementing the backend APIs and redirect logic.
+
+I then connected both ends together, added seed data so the charts and table felt realistic, and wrapped up with testing and documentation.
